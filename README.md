@@ -54,7 +54,7 @@ Sign up for IBM's [Watson Studio](https://dataplatform.ibm.com). By creating a p
 
 * From the `My Projects > Default` page, Use `Find and Add Data` (look for the `10/01` icon)
 and its `Files` tab.
-* Click `browse` and navigate to this repo `watson-document-classifier/data/Travel Process_Final.csv`
+* Click `browse` and navigate to this repo `Travel-Process-Management/data/Travel Process_Final.csv`
 
 ![](doc/source/images/add_file.png)
 

@@ -82,7 +82,7 @@ Update `searchFeature` according to the desired feature asked by the user in the
 
 ![](doc/source/images/service_credentials.png)
 
-## 6. Run the notebook
+## 5. Run the notebook
 
 When a notebook is executed, what is actually happening is that each code cell in
 the notebook is executed, in order, from top to bottom.

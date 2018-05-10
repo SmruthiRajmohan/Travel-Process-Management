@@ -11,7 +11,7 @@
 ## Featured technologies
 
 * [Jupyter Notebooks](http://jupyter.org/): An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
-* [Data Science]()
+* [Data Science](https://en.wikipedia.org/wiki/Data_science): An interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining
 * [Path Traversal]()
 
 

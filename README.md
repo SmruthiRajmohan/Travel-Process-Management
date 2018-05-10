@@ -35,15 +35,7 @@ Sign up for IBM's [Watson Studio](https://dataplatform.ibm.com). By creating a p
 
 > Note: When creating your Object Storage service, select the ``Free`` storage type in order to avoid having to pay an upgrade fee.
 
-## 2. Create IBM Cloud services
-
-Create the following IBM Cloud service and name it wdc-NLU-service:
-
-  * [**Watson Natural Language Understanding**](https://console.bluemix.net/catalog/services/natural-language-understanding)
-
-  ![](doc/source/images/bluemix_service_nlu.png)
-
-## 3. Create the notebook
+## 2. Create the notebook
 
 * In [Watson Studio](https://dataplatform.ibm.com), click on `Create notebook` to create a notebook.
 * Create a project if necessary, provisioning an object storage service if required.
@@ -57,7 +49,7 @@ Create the following IBM Cloud service and name it wdc-NLU-service:
 
 ![](doc/source/images/create_notebook_from_url.png)
 
-## 4. Add the data and configuration file
+## 3. Add the data and configuration file
 
 #### Add the data and configuration to the notebook
 
@@ -81,26 +73,8 @@ Replace the `sampleTextFileName` with the name of your data file and `sampleConf
 
 ![](doc/source/images/update_variables.png)
 
-## 5. Update the notebook with service credentials
+## 4. Update the notebook with service credentials
 
-#### Add the Watson Natural Language Understanding credentials to the notebook
-Select the cell below `2.1 Add your service credentials from IBM Cloud for the Watson services` section in the notebook to update the credentials for Watson Natural Langauage Understanding. 
-
-Open the Watson Natural Language Understanding service in your [IBM Cloud Dashboard](https://console.bluemix.net/dashboard/services) and click on your service, which you should have named `wdc-NLU-service`.
-
-Once the service is open click the `Service Credentials` menu on the left.
-
-![](doc/source/images/service_credentials.png)
-
-In the `Service Credentials` that opens up in the UI, select whichever `Credentials` you would like to use in the notebook from the `KEY NAME` column. Click `View credentials` and copy `username` and `password` key values that appear on the UI in JSON format.
-
-![](doc/source/images/copy_credentials.png)
-
-Update the `username` and `password` key values in the cell below `2.1 Add your service credentials from IBM Cloud for the Watson services` section.
-
-![](doc/source/images/watson_nlu_credentials.png)
-
-#### Add the Object Storage credentials to the notebook
 * Select the cell below `2.2 Add your service credentials for Object Storage` section in the notebook to update the credentials for Object Store.
 * Delete the contents of the cell
 * Use `Find and Add Data` (look for the `10/01` icon) and its `Files` tab. You should see the file names uploaded earlier. Make sure your active cell is the empty one below `2.2 Add...`

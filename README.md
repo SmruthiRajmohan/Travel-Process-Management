@@ -12,7 +12,7 @@
 
 * [Jupyter Notebooks](http://jupyter.org/): An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 * [Data Science](https://en.wikipedia.org/wiki/Data_science): An interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining
-* [Path Traversal]()
+* [Decision Tree](http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/): To create a training model which can use to predict class or value of target variables by learning decision rules inferred from prior data
 
 
 # Steps

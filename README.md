@@ -111,4 +111,6 @@ There are several ways to execute the code cells in your notebook:
     panel. Here you can schedule your notebook to be executed once at some future
     time, or repeatedly at your specified interval.
 
+## 6. Analyze the Results
+
 

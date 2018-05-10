@@ -66,9 +66,11 @@ If you use your own data and configuration files, you will need to update the va
 
 In the notebook, update the global variables in the cell following `2.3 Global Variables` section.
 
-Replace the `sampleTextFileName` with the name of your data file and `sampleConfigFileName` with your configuration file name.
+Use the `questions` provided or create your own in the form of a key-value pair, key containing the features and the value containing the question to be asked.
 
-![](doc/source/images/update_variables.png)
+Update `searchFeature` according to the desired feature asked by the user in the beginning of the chat chain.
+
+![](doc/source/images/global_variables.png)
 
 ## 4. Update the notebook with service credentials
 

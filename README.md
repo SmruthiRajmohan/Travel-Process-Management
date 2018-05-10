@@ -113,4 +113,19 @@ There are several ways to execute the code cells in your notebook:
 
 ## 6. Analyze the Results
 
+After running the notebook, the given data is converted to a decision tree, as show in `8. Plotting the Decision Tree`.
+
+![](doc/source/images/tree.png)
+
+Based on the `searchFeature` entered in `2.3 Global Variables` section, paths are retrieved.
+
+![](doc/source/images/paths.png)
+
+Appropriate questions are asked in order for the tree to choose an appropriate path.
+
+![](doc/source/images/qanda.png)
+
+The user inputs determines the final target class
+
+![](doc/source/images/ans.png)
 

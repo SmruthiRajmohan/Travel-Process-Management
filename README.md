@@ -25,8 +25,7 @@ described in detail below.
 1. [Add the data and configuraton file](#3-add-the-data-and-configuration-file)
 1. [Update the notebook with service credentials](#4-update-the-notebook-with-service-credentials)
 1. [Run the notebook](#5-run-the-notebook)
-1. [Download the results](#6-download-the-results)
-1. [Analyze the results](#7-analyze-the-results)
+1. [Analyze the results](#6-analyze-the-results)
 
 ## 1. Sign up for Watson Studio
 

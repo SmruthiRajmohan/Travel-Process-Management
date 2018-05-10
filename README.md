@@ -25,7 +25,8 @@ described in detail below.
 1. [Add the data and configuraton file](#3-add-the-data-and-configuration-file)
 1. [Update the notebook with service credentials](#4-update-the-notebook-with-service-credentials)
 1. [Run the notebook](#5-run-the-notebook)
-1. [Analyze the results](#6-analyze-the-results)
+1. [Download the results](#6-download-the-results)
+1. [Analyze the results](#7-analyze-the-results)
 
 ## 1. Sign up for Watson Studio
 
@@ -80,9 +81,9 @@ Update `searchFeature` according to the desired feature asked by the user in the
 * Click `Insert Crendentials` from drop down menu.
 * Make sure the credentials are saved as `credentials_1`.
 
-![](doc/source/images/objectstorage_credentials.png)
+![](doc/source/images/service_credentials.png)
 
-## 5. Run the notebook
+## 6. Run the notebook
 
 When a notebook is executed, what is actually happening is that each code cell in
 the notebook is executed, in order, from top to bottom.
@@ -111,5 +112,4 @@ There are several ways to execute the code cells in your notebook:
     panel. Here you can schedule your notebook to be executed once at some future
     time, or repeatedly at your specified interval.
 
-## 6. Analyze the results
 

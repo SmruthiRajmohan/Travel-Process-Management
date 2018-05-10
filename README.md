@@ -21,13 +21,12 @@ Follow these steps to setup and run this code pattern. The steps are
 described in detail below.
 
 1. [Sign up for Watson Studio](#1-sign-up-for-watson-studio)
-1. [Create IBM Cloud services](#2-create-ibm-cloud-services)
-1. [Create the notebook](#3-create-the-notebook)
-1. [Add the data and configuraton file](#4-add-the-data-and-configuration-file)
-1. [Update the notebook with service credentials](#5-update-the-notebook-with-service-credentials)
-1. [Run the notebook](#6-run-the-notebook)
-1. [Download the results](#7-download-the-results)
-1. [Analyze the results](#8-analyze-the-results)
+1. [Create the notebook](#2-create-the-notebook)
+1. [Add the data and configuraton file](#3-add-the-data-and-configuration-file)
+1. [Update the notebook with service credentials](#4-update-the-notebook-with-service-credentials)
+1. [Run the notebook](#5-run-the-notebook)
+1. [Download the results](#6-download-the-results)
+1. [Analyze the results](#7-analyze-the-results)
 
 ## 1. Sign up for Watson Studio
 
@@ -55,13 +54,11 @@ Sign up for IBM's [Watson Studio](https://dataplatform.ibm.com). By creating a p
 
 * From the `My Projects > Default` page, Use `Find and Add Data` (look for the `10/01` icon)
 and its `Files` tab.
-* Click `browse` and navigate to this repo `watson-document-classifier/data/sample_text.txt`
-* Click `browse` and navigate to this repo `watson-document-classifier/configuration/sample_config.txt`
+* Click `browse` and navigate to this repo `watson-document-classifier/data/Travel Process_Final.csv`
 
 ![](doc/source/images/add_file.png)
 
-> Note:  It is possible to use your own data and configuration files.
-If you use a configuration file from your computer, make sure to conform to the JSON structure given in `configuration/sample_config.txt`.
+> Note:  It is possible to use your own data files.
 
 #### Fix-up file names for your own data and configuration files
 

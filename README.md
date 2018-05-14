@@ -4,7 +4,7 @@ Decision-making is regarded as the cognitive process resulting in the selection 
 
 In Multinational Companies, Banks or Hospitals, the decision-making process could be quite complex, difficult to manage and time-consuming. Hence resulting in a very cumbersome process.
 
-This code pattern aims to automate the travel process by taking into consideration the rules for approval or other recommendations and building a Decision Tree Classification model. Initially, the user enters the feature and its value. The Algorithm will look up the built Decision Tree model and will search for the optimal possible paths which can lead to the decision/ recommendation. Then, the system will start asking relevant questions from the user and based on the answers given by users. Finally, we get a recommendation.
+This code pattern aims to automate and optimize any process of decision-making using Decision Tree Classification model with minimal manual intervention. Initially, the user enters the feature and its value. The Algorithm will look up the built Decision Tree model and will search for the optimal possible paths which can lead to the decision/ recommendation. Then, the system will start asking relevant questions from the user and based on the answers given by users. Finally, we get a recommendation.
 
 This way, we reduce the manual intervention and complexity of any such Decision Making Process, thereby resulting in a generic solution to a complex problem.
 

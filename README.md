@@ -1,5 +1,17 @@
 # Travel-Process-Management
 
+A travel request approval workflow is one of the most essential workflows for companies whose employees often need to travel for business. 
+
+The lack of a proper travel request workflow poses the following challenges:
+    
+* A request & approval process that uses spreadsheets and emails is difficult to manage with scale and is not transparent
+* Travel plans are often made at the last minute, resulting in high ticket costs
+* No control over travel costs, budget limits and approvals required
+
+This code pattern aims to automate this process by taking into consideration the rules for approval or other recommendations and builds a decision tree. The algorithm receives the initial feature from the user and determines the paths it could follow. Next by asking questions to the user, it determines the right path to the leaf, which in turn contains the desired recommendation.
+
+It aims to provide a generic model which can take in a set of rules leading to a recommendation and generate a tree, that can be traversed to obtain information.
+
 ## Included components
 
 * [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio): Analyze data using RStudio, Jupyter, and Python in a configured, collaborative environment that includes IBM value-adds, such as managed Spark.

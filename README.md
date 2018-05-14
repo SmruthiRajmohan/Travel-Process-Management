@@ -11,11 +11,11 @@ This way, we reduce the manual intervention and complexity of any such Decision 
 
 When the reader has completed this code pattern, they will understand how to:
 
-* Use Decision Tree Classification Model in Scikit-learn.
-* Decode a built Decision Tree for traversal. 
 * Work with Pandas to preprocess, clean and deal with nans.
-* Create and run a Jupyter notebook in Watson Studio.
-* Use Object Storage to access data and configuration files.
+* Build Decision Tree Classification Model in Scikit-learn.
+* Decode a built Decision Tree for traversal. 
+* Find optimal possible paths leading to a final decision/ recommendation.
+* Learn the Strategy to get the correct recommendations.
 
 ## Included components
 

@@ -1,16 +1,21 @@
-# Travel-Process-Management
+#  Automate the Decision-Making process using Machine learning with Minimal Manual Intervention
 
-A travel request approval workflow is one of the most essential workflows for companies whose employees often need to travel for business. 
+Decision-making is regarded as the cognitive process resulting in the selection of a belief or a course of action among several alternative possibilities. Every decision-making process produces a final choice or a recommendation.
 
-Lack of a proper travel request workflow poses the following challenges:
-    
-* A request and approval process that uses spreadsheets and emails is difficult to manage with scale and is not transparent
-* Travel plans are often made at the last minute, resulting in high ticket costs
-* No control over travel costs, budget limits and approvals required
+In Multinational Companies, Banks or Hospitals, the decision-making process could be quite complex, difficult to manage and time-consuming. Hence resulting in a very cumbersome process.
 
-This code pattern aims to automate the travel process by taking into consideration the rules for approval or other recommendations and builds a decision tree. The algorithm receives an initial feature from the user and determines the various paths leading to the final recommendation. Next by asking questions to the user, it determines the right path to the leaf, which in turn contains the desired recommendation.
+This code pattern aims to automate the travel process by taking into consideration the rules for approval or other recommendations and building a Decision Tree Classification model. Initially, the user enters the feature and its value. The Algorithm will look up the built Decision Tree model and will search for the optimal possible paths which can lead to the decision/ recommendation. Then, the system will start asking relevant questions from the user and based on the answers given by users. Finally, we get a recommendation.
 
-It aims to provide a generic model which can take in a set of rules leading to a recommendation and generate a tree, that can be traversed to obtain information.
+This way, we reduce the manual intervention and complexity of any such Decision Making Process, thereby resulting in a generic solution to a complex problem.
+
+
+When the reader has completed this code pattern, they will understand how to:
+
+* Create and run a Jupyter notebook in Watson Studio.
+* Use Object Storage to access data and configuration files.
+* Learn about Decision Tree Classification Model in Scikit-learn
+* Decoding a built Decision Tree for traversal 
+* Work with Pandas to preprocess, clean and deal with nans.
 
 ## Included components
 

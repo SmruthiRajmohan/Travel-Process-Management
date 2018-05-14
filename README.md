@@ -2,7 +2,7 @@
 
 A travel request approval workflow is one of the most essential workflows for companies whose employees often need to travel for business. 
 
-The lack of a proper travel request workflow poses the following challenges:
+Lack of a proper travel request workflow poses the following challenges:
     
 * A request and approval process that uses spreadsheets and emails is difficult to manage with scale and is not transparent
 * Travel plans are often made at the last minute, resulting in high ticket costs

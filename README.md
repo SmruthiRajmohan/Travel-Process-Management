@@ -8,6 +8,7 @@ This code pattern aims to automate and optimize any process of decision-making u
 
 This way, we reduce the manual intervention and complexity of any such Decision Making Process, thereby resulting in a generic solution to a complex problem.
 
+![](doc/source/images/Architecture_Diagram.png)
 
 When the reader has completed this code pattern, they will understand how to:
 
@@ -16,6 +17,7 @@ When the reader has completed this code pattern, they will understand how to:
 * Decode a built Decision Tree for traversal. 
 * Find optimal possible paths leading to a final decision/ recommendation.
 * Learn the Strategy to get the correct recommendations.
+
 
 ## Included components
 

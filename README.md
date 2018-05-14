@@ -4,7 +4,7 @@ A travel request approval workflow is one of the most essential workflows for co
 
 The lack of a proper travel request workflow poses the following challenges:
     
-* A request & approval process that uses spreadsheets and emails is difficult to manage with scale and is not transparent
+* A request and approval process that uses spreadsheets and emails is difficult to manage with scale and is not transparent
 * Travel plans are often made at the last minute, resulting in high ticket costs
 * No control over travel costs, budget limits and approvals required
 

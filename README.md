@@ -8,7 +8,7 @@ The lack of a proper travel request workflow poses the following challenges:
 * Travel plans are often made at the last minute, resulting in high ticket costs
 * No control over travel costs, budget limits and approvals required
 
-This code pattern aims to automate the travel process by taking into consideration the rules for approval or other recommendations and builds a decision tree. The algorithm receives the initial feature from the user and determines the paths it could follow. Next by asking questions to the user, it determines the right path to the leaf, which in turn contains the desired recommendation.
+This code pattern aims to automate the travel process by taking into consideration the rules for approval or other recommendations and builds a decision tree. The algorithm receives an initial feature from the user and determines the various paths leading to the final recommendation. Next by asking questions to the user, it determines the right path to the leaf, which in turn contains the desired recommendation.
 
 It aims to provide a generic model which can take in a set of rules leading to a recommendation and generate a tree, that can be traversed to obtain information.
 

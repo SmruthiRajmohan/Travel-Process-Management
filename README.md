@@ -1,4 +1,4 @@
-#  Automate the Decision-Making process using Machine learning with Minimal Manual Intervention
+#  Automate and Optimize the Decision-Making process using Machine learning with Minimal Manual Intervention
 
 Decision-making is regarded as the cognitive process resulting in the selection of a belief or a course of action among several alternative possibilities. Every decision-making process produces a final choice or a recommendation.
 
